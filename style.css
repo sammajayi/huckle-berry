@@ -137,15 +137,13 @@ h2 {
     border: 0 0 5rem 0 solid grey;
     border-bottom: 7px solid #999999;
     box-shadow: 0px 4px 4px 0px #00000040;
-    margin: 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    margin: 10% auto;
   }
 
   .top {
     background-color: white;
     width: 100%;
-    padding-top: 200px;
+    padding-top: 500px;
   }
   .h2-text {
     padding-top: 0.5rem;
