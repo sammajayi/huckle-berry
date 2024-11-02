@@ -86,7 +86,7 @@ h2 {
 }
 
 .CTA {
-  margin-top: 2rem;
+  margin: 2rem 1rem 1rem 1rem;
   font-size: 1.25rem;
   font-weight: 500;
 }
@@ -94,7 +94,7 @@ h2 {
 .CTA1 {
   font-size: 1.25rem;
   font-weight: 500;
-  margin-top: 2rem;
+  margin: 2rem 1rem 1rem 1rem;
 }
 
 /* style for tablet */
@@ -120,7 +120,7 @@ h2 {
 }
 
 /* style for mobile */
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 500px) {
   main {
     width: 90%;
   }
